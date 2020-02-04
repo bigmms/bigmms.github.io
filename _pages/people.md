@@ -15,8 +15,6 @@ PhD student <br>
 Computer Science Department
 <br>
 <br>
-<br>
-<br>
 <img src='/images/jlyin.png' width="100" style="float: left; margin: 15px">
 <br>
 Lily Yin <br>
@@ -24,15 +22,11 @@ PhD student <br>
 Computer Science Department
 <br>
 <br>
-<br>
-<br>
 <img src='/images/hycheng.png' width="100" style="float: left; margin: 15px">
 <br>
 Joe Cheng <br>
 PhD student <br>
 Computer Science Department
-<br>
-<br>
 <br>
 <br>
 <img src='/images/wlcheng.jpg' width="100" style="float: left; margin: 15px">
@@ -53,15 +47,11 @@ Graduate student <br>
 Computer Science Department
 <br>
 <br>
-<br>
-<br>
 <img src='/images/sxchen.png' width="100" style="float: left; margin: 15px">
 <br>
 Sheng-Xin Chen <br>
 Graduate student <br>
 Computer Science Department
-<br>
-<br>
 <br>
 <br>
 <img src='/images/royzheng.png' width="100" style="float: left; margin: 15px">
