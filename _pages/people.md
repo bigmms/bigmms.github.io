@@ -42,9 +42,6 @@ Wayne Cheng <br>
 PhD student <br>
 Computer Science Department
 <br>
-<br>
-<br>
-<br>
 
 Graduate students
 ======
@@ -72,9 +69,6 @@ Computer Science Department
 Roy Zheng <br>
 Graduate student <br>
 Computer Science Department
-<br>
-<br>
-<br>
 <br>
 
 Alumni
