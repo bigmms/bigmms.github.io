@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2009-10-01-paper-title-number-1
 venue: "IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 1, pp. 38-49, Jan. 2019"
 date: 
-citation: 
+citation: ccc
 ---
 
 [[pdf]](https://ieeexplore.ieee.org/document/8107566) 
