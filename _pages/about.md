@@ -24,3 +24,7 @@ What's New
 * Apr. 2019: Our [paper](https://cmsworkshops.com/ICIP2019/Papers/AcceptedPapers.asp) was accepted to ICIP 2019. Congratulations to team!
 * Dec. 2018: Congratulations to Eileen Wu for winning the 1st Prize in [Young Scholar Thesis Award](/files/(%E9%99%84%E4%BB%B61)107%E5%B9%B4%E5%BA%A6%E3%80%8C%E9%9D%92%E5%B9%B4%E8%AB%96%E6%96%87%E7%8D%8E%E3%80%8D%E5%BE%97%E7%8D%8E%E4%BA%BA%E5%90%8D%E5%96%AE.pdf) from the Chinese Institute of Electrical Engineering!
 
+<td width="320" align="center">
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=dzO7CW09FoK8qUmhNlZ058mLWmpJdHHAZprnxmG1VYw&cl=ffffff&w=a"></script>
+</td>
+
