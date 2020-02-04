@@ -13,3 +13,5 @@ This paper is about the number 1. The number 2 is left for future work.
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+| ![](figs/chen_tcsvt19_enhancement.png) | B. H. Chen, Y. L. Wu and L. F. Shi, "A Fast Image Contrast Enhancement Algorithm Using Entropy-Preserving Mapping Prior," IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 1, pp. 38-49, Jan. 2019. [[pdf]](https://ieeexplore.ieee.org/document/8107566) [[bib]](https://bigmms.github.io/chen_tcsvt19_enhancement/chen_tcsvt19_enhancement.html) [[Project]](https://bigmms.github.io/chen_tcsvt19_enhancement/) | 
