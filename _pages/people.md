@@ -10,7 +10,7 @@ PhD students
 <br>
 <img src='/images/ywtsai.png' width="100" style="float: left; margin: 15px">
 Yu-Wen Tsai
-<br>
+
 PhD student
 <br>
 
