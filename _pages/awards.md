@@ -5,12 +5,14 @@ author_profile: true
 ---
 <br>
 INTERNATIONAL
+<br>
 * Gold Medal Award, Taiwan Innotech Expo Invention Contest, Taipei, Taiwan, 2019
 * Best Paper Award, IEEE International Conference on Applied System Innovation, Tokyo, Japan, 2018
 * Gold Medal Award, Moscow International Salon of Industrial Property, Moscow, Russia, 2018
 * First Paper Award, IEEE International Conference on Applied System Innovation, Sapporo, Japan, 2017
 * Best Paper Award, ACM International Conference on Big Data and Advanced Wireless Technologies Blagoevgrad, Bulgaria, 2016
 * Best Student Paper Award, IEEE International Symposium on Multimedia Anaheim, U.S.A, 2013
+<br>
 <br>
 DOMESTIC
 * Outstanding Master Thesis Award to Lynette Huang, Taiwanese Association for Consumer Electronics, 2019
