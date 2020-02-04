@@ -13,7 +13,6 @@ INTERNATIONAL
 * Best Paper Award, ACM International Conference on Big Data and Advanced Wireless Technologies Blagoevgrad, Bulgaria, 2016
 * Best Student Paper Award, IEEE International Symposium on Multimedia Anaheim, U.S.A, 2013
 <br>
-<br>
 DOMESTIC
 <br>
 * Outstanding Master Thesis Award to Lynette Huang, Taiwanese Association for Consumer Electronics, 2019
