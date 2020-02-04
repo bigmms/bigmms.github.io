@@ -1,6 +1,6 @@
 ---
 title: "B. H. Chen, L. F. Shi and X. Ke, "A Robust Moving Object Detection in Multi-Scenario Big Data for Video Surveillance," IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 4, pp. 982-995, April 2019."
-excerpt: "[[pdf]] <br/><img src='/images/chen_tcsvt19.png'>"
+excerpt: "<br/><img src='/images/chen_tcsvt19.png'>"
 collection: portfolio
 ---
 
