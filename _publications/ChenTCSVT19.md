@@ -3,8 +3,8 @@ title: "A Fast Image Contrast Enhancement Algorithm Using Entropy-Preserving Map
 collection: publications
 permalink: /publications/ChenTCSVT19
 venue: "IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 1, pp. 38-49, Jan. 2019."
-date: ""
-citation: ''
+date: "2019-01-01"
+citation: 'B. H. Chen, Y. L. Wu and L. F. Shi, "A Fast Image Contrast Enhancement Algorithm Using Entropy-Preserving Mapping Prior," IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 1, pp. 38-49, Jan. 2019.'
 ---
 
 [[pdf]](https://ieeexplore.ieee.org/document/8107566) 
