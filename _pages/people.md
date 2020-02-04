@@ -48,10 +48,34 @@ Computer Science Department
 
 Graduate students
 ======
-Shi-Ting Ye
-ShengXin Chen
-Roy Zheng
-
+<br>
+<img src='/images/stye.png' width="100" style="float: left; margin: 15px">
+<br>
+Shi-Ting Ye <br>
+Graduate student <br>
+Computer Science Department
+<br>
+<br>
+<br>
+<br>
+<img src='/images/sxchen.png' width="100" style="float: left; margin: 15px">
+<br>
+ShengXin Chen <br>
+Graduate student <br>
+Computer Science Department
+<br>
+<br>
+<br>
+<br>
+<img src='/images/royzheng.png' width="100" style="float: left; margin: 15px">
+<br>
+Roy Zheng <br>
+Graduate student <br>
+Computer Science Department
+<br>
+<br>
+<br>
+<br>
 
 Alumni
 ======
