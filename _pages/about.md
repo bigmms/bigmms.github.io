@@ -10,6 +10,7 @@ redirect_from:
 
 
 I am an Associate Professor in the Department of Computer Science and Engineering at Yuan Ze University. I direct the Multimedia BigData System (BigMMS) Lab. My primary research area is computer vision, closely integrated with deep learning, autonomous vehicles, knowledge representation/reasoning, and human-computer interaction. 
+I am actively looking for motivated students to join my group! If you are interested in working with me, feel free to reach out to me or come talk to me during my office hour.
 
 What's New
 ======
