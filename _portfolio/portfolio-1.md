@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "B. H. Chen, L. F. Shi and X. Ke, "A Robust Moving Object Detection in Multi-Scenario Big Data for Video Surveillance," IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 4, pp. 982-995, April 2019."
+excerpt: "[[pdf]](https://ieeexplore.ieee.org/document/8107566) [[bib]](https://bigmms.github.io/chen_tcsvt19_enhancement/chen_tcsvt19_enhancement.html) [[Project]](https://bigmms.github.io/chen_tcsvt19_enhancement/)<br/><img src='/images/chen_tcsvt19.png'>"
 collection: portfolio
 ---
 
