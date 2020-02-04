@@ -40,8 +40,8 @@ Computer Science Department
 Wayne Cheng <br>
 PhD student <br>
 Computer Science Department
-
 <br>
+
 Graduate students
 ======
 <img src='/images/stye.png' width="100" style="float: left; margin: 15px">
@@ -67,8 +67,8 @@ Computer Science Department
 Roy Zheng <br>
 Graduate student <br>
 Computer Science Department
-
 <br>
+
 Alumni
 ======
 These are the students that have in the past formed the BigMMS core team, or have otherwise contributed a significant amount to the BigMMS. BigMMS would not be possible without them.
