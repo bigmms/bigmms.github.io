@@ -1,5 +1,5 @@
 ---
-title: <img src='/images/chen_tcsvt19_enhancement.png'> <br/>B. H. Chen, Y. L. Wu and L. F. Shi, "A Fast Image Contrast Enhancement Algorithm Using Entropy-Preserving Mapping Prior," IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 1, pp. 38-49, Jan. 2019. 
+title: <img src='/images/chen_tcsvt19_enhancement.png', align='left'> <br/>B. H. Chen, Y. L. Wu and L. F. Shi, "A Fast Image Contrast Enhancement Algorithm Using Entropy-Preserving Mapping Prior," IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 1, pp. 38-49, Jan. 2019. 
 collection: publications
 permalink: https://bigmms.github.io/chen_tcsvt19_enhancement/
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
