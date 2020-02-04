@@ -7,23 +7,47 @@ author_profile: true
 These are the students that form the BigMMS core team.
 
 PhD students
+======
 <br>
 <img src='/images/ywtsai.png' width="100" style="float: left; margin: 15px">
 Yu-Wen Tsai
 
 PhD student
 <br>
-
+<br>
+<br>
+<br>
+<img src='/images/jlyin.png' width="100" style="float: left; margin: 15px">
 Lily Yin
+
+PhD student
+<br>
+<br>
+<br>
+<br>
+<img src='/images/hycheng.png' width="100" style="float: left; margin: 15px">
 Joe Cheng
+
+PhD student
+<br>
+<br>
+<br>
+<br>
+<img src='/images/wlcheng.jpg' width="100" style="float: left; margin: 15px">
 Wayne Cheng
 
+PhD student
+
+
 Graduate students
+======
 Shi-Ting Ye
 ShengXin Chen
 Roy Zheng
 
+
 Alumni
+======
 These are the students that have in the past formed the BigMMS core team, or have otherwise contributed a significant amount to the BigMMS. BigMMS would not be possible without them.
 
 * Lynette Huang, Master thesis 2018-2019, CirNet: Towards Unsupervised Image Reconstruction with Generative Adversarial Networks
