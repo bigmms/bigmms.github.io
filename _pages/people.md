@@ -41,7 +41,6 @@ Computer Science Department
 Wayne Cheng <br>
 PhD student <br>
 Computer Science Department
-<br>
 
 Graduate students
 ======
@@ -57,7 +56,7 @@ Computer Science Department
 <br>
 <img src='/images/sxchen.png' width="100" style="float: left; margin: 15px">
 <br>
-ShengXin Chen <br>
+Sheng-Xin Chen <br>
 Graduate student <br>
 Computer Science Department
 <br>
@@ -69,7 +68,6 @@ Computer Science Department
 Roy Zheng <br>
 Graduate student <br>
 Computer Science Department
-<br>
 
 Alumni
 ======
