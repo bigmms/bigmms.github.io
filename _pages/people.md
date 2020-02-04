@@ -11,32 +11,32 @@ PhD students
 <br>
 <img src='/images/ywtsai.png' width="100" style="float: left; margin: 15px">
 Yu-Wen Tsai
-
 PhD student
+Computer Science Department
 <br>
 <br>
 <br>
 <br>
 <img src='/images/jlyin.png' width="100" style="float: left; margin: 15px">
 Lily Yin
-
 PhD student
+Computer Science Department
 <br>
 <br>
 <br>
 <br>
 <img src='/images/hycheng.png' width="100" style="float: left; margin: 15px">
 Joe Cheng
-
 PhD student
+Computer Science Department
 <br>
 <br>
 <br>
 <br>
 <img src='/images/wlcheng.jpg' width="100" style="float: left; margin: 15px">
 Wayne Cheng
-
 PhD student
+Computer Science Department
 
 
 Graduate students
