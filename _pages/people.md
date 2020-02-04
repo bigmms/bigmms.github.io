@@ -10,6 +10,7 @@ PhD students
 ======
 <br>
 <img src='/images/ywtsai.png' width="100" style="float: left; margin: 15px">
+<br>
 Yu-Wen Tsai
 PhD student
 Computer Science Department
@@ -18,6 +19,7 @@ Computer Science Department
 <br>
 <br>
 <img src='/images/jlyin.png' width="100" style="float: left; margin: 15px">
+<br>
 Lily Yin
 PhD student
 Computer Science Department
@@ -26,6 +28,7 @@ Computer Science Department
 <br>
 <br>
 <img src='/images/hycheng.png' width="100" style="float: left; margin: 15px">
+<br>
 Joe Cheng
 PhD student
 Computer Science Department
@@ -34,6 +37,7 @@ Computer Science Department
 <br>
 <br>
 <img src='/images/wlcheng.jpg' width="100" style="float: left; margin: 15px">
+<br>
 Wayne Cheng
 PhD student
 Computer Science Department
