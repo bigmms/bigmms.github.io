@@ -8,7 +8,6 @@ These are the students that form the BigMMS core team.
 
 PhD students
 ======
-<br>
 <img src='/images/ywtsai.png' width="100" style="float: left; margin: 15px">
 <br>
 Yu-Wen Tsai <br>
@@ -42,9 +41,9 @@ Wayne Cheng <br>
 PhD student <br>
 Computer Science Department
 
+<br>
 Graduate students
 ======
-<br>
 <img src='/images/stye.png' width="100" style="float: left; margin: 15px">
 <br>
 Shi-Ting Ye <br>
@@ -69,6 +68,7 @@ Roy Zheng <br>
 Graduate student <br>
 Computer Science Department
 
+<br>
 Alumni
 ======
 These are the students that have in the past formed the BigMMS core team, or have otherwise contributed a significant amount to the BigMMS. BigMMS would not be possible without them.
