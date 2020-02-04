@@ -1,13 +1,15 @@
 ---
-title: "Lipschitz Generative Adversarial Nets"
+title: "A Fast Image Contrast Enhancement Algorithm Using Entropy-Preserving Mapping Prior"
 collection: publications
 permalink: /publications/ChenTCSVT19
-venue: "The 36th International Conference on Machine Learning (ICML-19)"
-date: 2019-2-23
-citation: 'Zhiming Zhou, Jiadong Liang, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang. <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.'
+venue: "IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 1, pp. 38-49, Jan. 2019."
+date: ""
+citation: ''
 ---
 
-[[ArXiv]](https://arxiv.org/abs/1902.05687)
+[[pdf]](https://ieeexplore.ieee.org/document/8107566) 
+[[bib]](https://bigmms.github.io/chen_tcsvt19_enhancement/chen_tcsvt19_enhancement.html) 
+[[Project]](https://bigmms.github.io/chen_tcsvt19_enhancement/) 
 
 ## Abstract
-In this paper we study the convergence of generative adversarial networks (GANs) from the perspective of the informativeness of the gradient of the optimal discriminative function. We show that GANs without restriction on the discriminative function space commonly suffer from the problem that the gradient produced by the discriminator is uninformative to guide the generator. By contrast, Wasserstein GAN (WGAN), where the discriminative function is restricted to 1-Lipschitz, does not suffer from such a gradient uninformativeness problem. We further show in the paper that the model with a compact dual form of Wasserstein distance, where the Lipschitz condition is relaxed, also suffers from this issue. This implies the importance of Lipschitz condition and motivates us to study the general formulation of GANs with Lipschitz constraint, which leads to a new family of GANs that we call Lipschitz GANs (LGANs). We show that LGANs guarantee the existence and uniqueness of the optimal discriminative function as well as the existence of a unique Nash equilibrium. We prove that LGANs are generally capable of eliminating the gradient uninformativeness problem. According to our empirical analysis, LGANs are more stable and generate consistently higher quality samples compared with WGAN.
+Contrast enhancement is a crucial image processing step for image quality control. However, images enhanced by conventional contrast enhancement methods can have negative effects on the performance of image quality control. The most commonly observed effects are over- and under-enhancement effects on images, which cause significant loss of fine textures in images. This paper developed a new contrast enhancement algorithm based on an entropy-preserving mapping prior that improves on conventional contrast enhancement methods. By creating a closed-form solution for enhancing the image contrast under this novel prior and learning the coefficients of the solution using an unsupervised learning strategy, an image’s contrast and texture can be effectively recovered. The experimental results verify that our proposed method clearly outperforms the existing state-of-the-art methods in terms of both quantitative estimation and qualitative human visual inspection.
