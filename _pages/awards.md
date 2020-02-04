@@ -1,5 +1,5 @@
 ---
-title: "Awards"
+title: 
 permalink: /awards/
 author_profile: true
 ---
@@ -15,6 +15,7 @@ INTERNATIONAL
 <br>
 <br>
 DOMESTIC
+<br>
 * Outstanding Master Thesis Award to Lynette Huang, Taiwanese Association for Consumer Electronics, 2019
 * Outstanding Master Thesis Award to Lynette Huang, Taiwan Institute of Electrical and Electronic Engineering, 2019
 * Outstanding Master Thesis Award to Lynette Huang, Chinese Image Processing and Pattern Recognition Society, 2019
