@@ -7,7 +7,13 @@ author_profile: true
 These are the students that form the BigMMS core team.
 
 PhD students
+<br>
+<img src='/images/ywtsai.png' width="100" style="float: left; margin: 15px">
 Yu-Wen Tsai
+<br>
+PhD student
+<br>
+
 Lily Yin
 Joe Cheng
 Wayne Cheng
