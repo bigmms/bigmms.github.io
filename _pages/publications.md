@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<img src='/images/yin_tcsvt19_pcce.png' width="100" style="border:2px black solid; float: left; margin: 15px">
+<img src='/images/yin_tcsvt19_pcce.png' width="100" style="float: left; margin: 15px">
 J. L. Yin, B. H. Chen, E. H. Lai, and L. F. Shi, "Power-constrained Image Contrast Enhancement through Sparse Representation by Joint Mixed-norm Regularization," IEEE Transactions on Circuits and Systems for Video Technology. (in press) [[pdf]](https://ieeexplore.ieee.org/document/8746233) [[bib]](https://bigmms.github.io/yin_tcsvt19_pcce/yin_tcsvt19_pcce.html) [[Project]](https://bigmms.github.io/yin_tcsvt19_pcce/)
 <br>
 <br>
