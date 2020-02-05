@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<img src='/images/yin_tits20_adas.png' width="100" style="float: left; margin: 15px">
+J. L. Yin, B. H. Chen, and K. R. Lai, "Driver Danger-Level Monitoring System Using Multi-Sourced Big Driving Data," IEEE Transactions on Intelligent Transportation Systems. (in press) [[pdf]](https://ieeexplore.ieee.org/document/8915711) [[bib]](/files/yin_tits20_adas.html)
+<br>
+<br>
 <img src='/images/yin_tcsvt19_pcce.png' width="100" style="float: left; margin: 15px">
 J. L. Yin, B. H. Chen, E. H. Lai, and L. F. Shi, "Power-constrained Image Contrast Enhancement through Sparse Representation by Joint Mixed-norm Regularization," IEEE Transactions on Circuits and Systems for Video Technology. (in press) [[pdf]](https://ieeexplore.ieee.org/document/8746233) [[bib]](https://bigmms.github.io/yin_tcsvt19_pcce/yin_tcsvt19_pcce.html) [[Project]](https://bigmms.github.io/yin_tcsvt19_pcce/)
 <br>
