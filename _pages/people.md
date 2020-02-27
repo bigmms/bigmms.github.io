@@ -7,7 +7,6 @@ author_profile: true
 These are the students that form the BigMMS core team.
 
 ## PhD students
-======
 <img src='/images/ywtsai.png' width="100" style="float: left; margin: 15px">
 <br>
 Yu-Wen Tsai <br>
@@ -39,7 +38,6 @@ Computer Science Department
 <br>
 
 ## Graduate students
-======
 <img src='/images/stye.png' width="100" style="float: left; margin: 15px">
 <br>
 Shi-Ting Ye <br>
@@ -64,7 +62,6 @@ Computer Science Department
 <br>
 
 ## Alumni
-======
 These are the students that have in the past formed the BigMMS core team, or have otherwise contributed a significant amount to the BigMMS. BigMMS would not be possible without them.
 
 * Lynette Huang, Master thesis 2018-2019, CirNet: Towards Unsupervised Image Reconstruction with Generative Adversarial Networks
