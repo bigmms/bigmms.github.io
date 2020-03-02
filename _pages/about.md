@@ -14,7 +14,7 @@ I am actively looking for motivated students to join my group! Generally student
 
 What's New
 ======
-* Mar. 2020: I have been recently guest-editing a special issue of the journal ``Mathematics`` (ISSN 2227-7390, IF 1.105), which is entitled ``Artificial Intelligence and Big Data Computing`` (see the issue [here](https://www.mdpi.com/journal/mathematics/special_issues/Big_Data_Computing)).
+* Mar. 2020: I've been recently guest-editing a special issue of the journal ``Mathematics`` (ISSN 2227-7390, IF 1.105), which is entitled ``Artificial Intelligence and Big Data Computing`` (see the issue [here](https://www.mdpi.com/journal/mathematics/special_issues/Big_Data_Computing)).
 * Nov. 2019: Our [paper](https://ieeexplore.ieee.org/document/8915711) was accepted to IEEE TITS. Congratulations to team!
 * Nov. 2019: Congratulations to Lynette Huang for winning the Honorable Mention in [Outstanding Master Thesis Award](https://docs.google.com/document/preview?hgd=1&id=1VOqXZu4vk4gkGoqshI2augfXHvLPodi69CKib3csGAY) from the Taiwanese Association for Consumer Electronics!
 * Nov. 2019: Congratulations to Lynette Huang for winning the Honorable Mention in [Outstanding Master Thesis Award](http://www.tieee.org.tw/index.php/64-awards/awards-list/227-2019?tmpl=component&print=1&page=) from the Taiwan Institute of Electrical and Electronic Engineering!
