@@ -16,6 +16,7 @@ author_profile: true
 * Best Thesis Award for Outstanding M.S. Thesis Supervision, Taiwanese Association for Consumer Electronics, 2018
 * Best Thesis Award for Outstanding M.S. Thesis Supervision, Association for Algorithms and Computation Theory, 2018
 * Best Thesis Award for Outstanding M.S. Thesis Supervision, Institute of Information and Computing Machinery, 2018
+* Young Scholar Research Award, Yuan Ze University, 2017
 * First Paper Award, IEEE International Conference on Applied System Innovation, 2017
 * Best Thesis Award for Outstanding M.S. Thesis Supervision, Taiwanese Association for Consumer Electronics, 2017
 * Best Thesis Award for Outstanding M.S. Thesis Supervision, Taiwan Institute of Electrical and Electronic Engineering, 2017
