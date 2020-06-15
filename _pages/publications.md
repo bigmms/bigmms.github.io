@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<img src='/images/yin_tmm20_pcce.png' width="100" style="float: left; margin: 15px">
+J. L. Yin, B. H. Chen, Y. T. Peng, and C. C. Tsai, "Deep Battery Saver: End-to-end Learning for Power Constrained Contrast Enhancement," IEEE Transactions on Multimedia. (in press) [[pdf]](https://ieeexplore.ieee.org/document/9089316) [[bib]](/files/yin_tmm20_pcce.html)
+<br>
+<br>
 <img src='/images/yin_tits20_adas.png' width="100" style="float: left; margin: 15px">
 J. L. Yin, B. H. Chen, and K. R. Lai, "Driver Danger-Level Monitoring System Using Multi-Sourced Big Driving Data," IEEE Transactions on Intelligent Transportation Systems. (in press) [[pdf]](https://ieeexplore.ieee.org/document/8915711) [[bib]](/files/yin_tits20_adas.html)
 <br>
