@@ -14,6 +14,8 @@ I am actively looking for motivated students to join my group! Generally student
 
 What's New
 ======
+* Jun. 2020: Our [paper](https://ieeexplore.ieee.org/document/9102832) was accepted to ICME 2020. Congratulations to team!
+* May 2020: Our [paper](https://dl.acm.org/doi/abs/10.1145/3372278.3390727) was accepted to ICMR 2020. Congratulations to team!
 * Apr. 2020: Our [paper](https://ieeexplore.ieee.org/document/9089316) on image enhancement was accepted to IEEE TMM. Congratulations to team!
 * Mar. 2020: We've recently guest-editing a special issue of the journal Mathematics (ISSN 2227-7390, IF 1.105), which is entitled "Artificial Intelligence and Big Data Computing" (see the issue [here](https://www.mdpi.com/journal/mathematics/special_issues/Big_Data_Computing)).
 * Nov. 2019: Our [paper](https://ieeexplore.ieee.org/document/8915711) was accepted to IEEE TITS. Congratulations to team!
