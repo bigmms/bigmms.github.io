@@ -25,7 +25,7 @@ B. H. Chen, L. F. Shi and X. Ke, "A Robust Moving Object Detection in Multi-Scen
 <br>
 <br>
 <img src='/images/chen_tcsvt19_enhancement.png' width="100" style="float: left; margin: 15px">
-B. H. Chen, Y. L. Wu and L. F. Shi, "A Fast Image Contrast Enhancement Algorithm Using Entropy-Preserving Mapping Prior]," IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 1, pp. 38-49, Jan. 2019. [[pdf]](https://ieeexplore.ieee.org/document/8107566) [[bib]](https://bigmms.github.io/chen_tcsvt19_enhancement/chen_tcsvt19_enhancement.html) [[Project]](https://bigmms.github.io/chen_tcsvt19_enhancement/)
+B. H. Chen, Y. L. Wu and L. F. Shi, "A Fast Image Contrast Enhancement Algorithm Using Entropy-Preserving Mapping Prior," IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 1, pp. 38-49, Jan. 2019. [[pdf]](https://ieeexplore.ieee.org/document/8107566) [[bib]](https://bigmms.github.io/chen_tcsvt19_enhancement/chen_tcsvt19_enhancement.html) [[Project]](https://bigmms.github.io/chen_tcsvt19_enhancement/)
 <br>
 <br>
 <img src='/images/yin_tiv18_ubi.png' width="100" style="float: left; margin: 15px">
