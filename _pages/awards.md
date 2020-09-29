@@ -4,6 +4,7 @@ permalink: /awards/
 author_profile: true
 ---
 
+* Bronze Medal Award, Taiwan Innotech Expo Invention Contest, 2020
 * Gold Medal Award, Taiwan Innotech Expo Invention Contest, 2019
 * Best Thesis Award for Outstanding M.S. Thesis Supervision, Taiwanese Association for Consumer Electronics, 2019
 * Best Thesis Award for Outstanding M.S. Thesis Supervision, Taiwan Institute of Electrical and Electronic Engineering, 2019
