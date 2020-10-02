@@ -14,6 +14,7 @@ I am actively looking for motivated students to join my group! Generally student
 
 What's New
 ======
+* Oct. 2020: Our [paper](https://ieeexplore.ieee.org/document/9190712) was accepted to ICIP 2020. Congratulations to team!
 * Sep. 2020: Congratulations to team on Winning [Bronze Medal](/files/2020-inventaipei-winner.pdf) at the Taiwan Innotech Expo Invention Contest.
 * Sep. 2020: Our [paper](https://ieeexplore.ieee.org/document/9200678) on image filtering was accepted to IEEE SPL. Congratulations to team!
 * Jun. 2020: Our [paper](https://ieeexplore.ieee.org/document/9102832) was accepted to ICME 2020 (acceptance rate=30%). Congratulations to team!
