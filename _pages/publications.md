@@ -19,11 +19,11 @@ J. L. Yin, B. H. Chen, and K. R. Lai, "Driver Danger-Level Monitoring System Usi
 <br>
 <br>
 <img src='/images/yin_tcsvt19_dehazing.png' width="100" style="float: left; margin: 15px">
-J. L. Yin, Y. C. Huang, B. H. Chen and S. Z. Ye, "Color Transferred Convolutional Neural Networks for Image Dehazing," IEEE Transactions on Circuits and Systems for Video Technology. (in press) [[pdf]](https://ieeexplore.ieee.org/document/8716692) [[bib]](https://bigmms.github.io/yin_tcsvt19_dehazing/yin_tcsvt19_dehazing.html) [[Project]](https://bigmms.github.io/yin_tcsvt19_dehazing/)
+J. L. Yin, Y. C. Huang, B. H. Chen and S. Z. Ye, "Color Transferred Convolutional Neural Networks for Image Dehazing," IEEE Transactions on Circuits and Systems for Video Technology. (in press) [[pdf]](https://ieeexplore.ieee.org/document/8716692) [[bib]](https://bigmms.github.io/yin_tcsvt19_dehazing/yin_tcsvt19_dehazing.html) [[Project]](https://bigmms.github.io/yin_tcsvt19_dehazing/) [[code]](https://github.com/bigmms/color-transferred-cnn-dehazing)
 <br>
 <br>
 <img src='/images/yin_tcsvt19_pcce.png' width="100" style="float: left; margin: 15px">
-J. L. Yin, B. H. Chen, E. H. Lai, and L. F. Shi, "Power-constrained Image Contrast Enhancement through Sparse Representation by Joint Mixed-norm Regularization," IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, no. 8, pp. 2477-2488, Aug. 2020. [[pdf]](https://ieeexplore.ieee.org/document/8746233) [[bib]](https://bigmms.github.io/yin_tcsvt19_pcce/yin_tcsvt19_pcce.html) [[Project]](https://bigmms.github.io/yin_tcsvt19_pcce/)
+J. L. Yin, B. H. Chen, E. H. Lai, and L. F. Shi, "Power-constrained Image Contrast Enhancement through Sparse Representation by Joint Mixed-norm Regularization," IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, no. 8, pp. 2477-2488, Aug. 2020. [[pdf]](https://ieeexplore.ieee.org/document/8746233) [[bib]](https://bigmms.github.io/yin_tcsvt19_pcce/yin_tcsvt19_pcce.html) [[Project]](https://bigmms.github.io/yin_tcsvt19_pcce/) [[code]](https://github.com/bigmms/mixed-norm-power-constrained-sparse-representation)
 <br>
 <br>
 <img src='/images/chen_tcsvt19_motion.png' width="100" style="float: left; margin: 15px">
@@ -31,7 +31,7 @@ B. H. Chen, L. F. Shi and X. Ke, "A Robust Moving Object Detection in Multi-Scen
 <br>
 <br>
 <img src='/images/chen_tcsvt19_enhancement.png' width="100" style="float: left; margin: 15px">
-B. H. Chen, Y. L. Wu and L. F. Shi, "A Fast Image Contrast Enhancement Algorithm Using Entropy-Preserving Mapping Prior," IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 1, pp. 38-49, Jan. 2019. [[pdf]](https://ieeexplore.ieee.org/document/8107566) [[bib]](https://bigmms.github.io/chen_tcsvt19_enhancement/chen_tcsvt19_enhancement.html) [[Project]](https://bigmms.github.io/chen_tcsvt19_enhancement/)
+B. H. Chen, Y. L. Wu and L. F. Shi, "A Fast Image Contrast Enhancement Algorithm Using Entropy-Preserving Mapping Prior," IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 1, pp. 38-49, Jan. 2019. [[pdf]](https://ieeexplore.ieee.org/document/8107566) [[bib]](https://bigmms.github.io/chen_tcsvt19_enhancement/chen_tcsvt19_enhancement.html) [[Project]](https://bigmms.github.io/chen_tcsvt19_enhancement/) [[code]](https://github.com/bigmms/entropy-preserving-mapping-prior)
 <br>
 <br>
 <img src='/images/yin_tiv18_ubi.png' width="100" style="float: left; margin: 15px">
@@ -39,7 +39,7 @@ J. L. Yin and B. H. Chen, "An Advanced Driver Risk Measurement System for Usage-
 <br>
 <br>
 <img src='/images/yin_tmm18_denoise.png' width="100" style="float: left; margin: 15px">
-J. L. Yin, B. H. Chen, and Y. Li, "Highly Accurate Image Reconstruction for Multimodal Noise Suppression Using Semisupervised Learning on Big Data," IEEE Transactions on Multimedia, vol. 20, no. 11, pp. 3045-3056, Nov. 2018. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8327853) [[bib]](https://bigmms.github.io/yin_tmm18_denoise/yin_tmm18_denoise.html) [[Project]](https://bigmms.github.io/yin_tmm18_denoise/)
+J. L. Yin, B. H. Chen, and Y. Li, "Highly Accurate Image Reconstruction for Multimodal Noise Suppression Using Semisupervised Learning on Big Data," IEEE Transactions on Multimedia, vol. 20, no. 11, pp. 3045-3056, Nov. 2018. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8327853) [[bib]](https://bigmms.github.io/yin_tmm18_denoise/yin_tmm18_denoise.html) [[Project]](https://bigmms.github.io/yin_tmm18_denoise/) [[code]](https://github.com/bigmms/semisupervised-learning-denoising)
 <br>
 <br>
 <img src='/images/shi_tmm18_dehazing.png' width="100" style="float: left; margin: 15px">
