@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<img src='/images/chen_spl20_gabf.png' width="100" style="float: left; margin: 15px">
+B. H. Chen, Y. S. Tseng, and J. L. Yin, "Gaussian-Adaptive Bilateral Filter," IEEE Signal Processing Letters, vol. 27, pp. 1670-1674, 2020. [[pdf]](https://ieeexplore.ieee.org/document/9200678) [[bib]](/files/chen_spl20_gabf.html)
+<br>
+<br>
 <img src='/images/yin_tmm20_pcce.png' width="100" style="float: left; margin: 15px">
 J. L. Yin, B. H. Chen, Y. T. Peng, and C. C. Tsai, "Deep Battery Saver: End-to-end Learning for Power Constrained Contrast Enhancement," IEEE Transactions on Multimedia. (in press) [[pdf]](https://ieeexplore.ieee.org/document/9089316) [[bib]](/files/yin_tmm20_pcce.html)
 <br>
