@@ -48,7 +48,7 @@ These are the students that have in the past formed the BigMMS core team, or hav
 
 * Shi-Ting Ye, Master thesis 2019-2020, Deep Trident Decomposition Network for Single License Plate Image Glare Removal
 * Sheng-Xin Chen, Master thesis 2019-2020, Automatic Itinerary Planning Using Triple-Agent Deep Reinforcement Learning
-* Lily Yin, PhD Dissertation, 2018-2020, Energy-Efficient Display Engine: Exploiting New Application and Design Methodologies
+* [Lily Yin](https://lily001ying.github.io/), PhD Dissertation, 2018-2020, Energy-Efficient Display Engine: Exploiting New Application and Design Methodologies
 * Lynette Huang, Master thesis 2018-2019, CirNet: Towards Unsupervised Image Reconstruction with Generative Adversarial Networks
 * Rick Huang, Master thesis 2017-2018, Color Transferred Convolutional Neural Networks for Image Dehazing
 * Bibby Lai, Master thesis 2017-2018, Power-constrained Image Contrast Enhancement through Sparse Representation by Joint Mixed-norm Regularization
