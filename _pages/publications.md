@@ -6,7 +6,7 @@ author_profile: true
 
 <br>
 <img src='/images/chen_spl20_gabf.png' width="100" style="float: left; margin: 15px">
-B. H. Chen, Y. S. Tseng, and J. L. Yin, "Gaussian-Adaptive Bilateral Filter," IEEE Signal Processing Letters, vol. 27, pp. 1670-1674, 2020. [[pdf]](https://ieeexplore.ieee.org/document/9200678) [[bib]](/files/chen_spl20_gabf.html)
+B. H. Chen, Y. S. Tseng, and J. L. Yin, "Gaussian-Adaptive Bilateral Filter," IEEE Signal Processing Letters, vol. 27, pp. 1670-1674, 2020. [[pdf]](https://ieeexplore.ieee.org/document/9200678) [[bib]](/files/chen_spl20_gabf.html) [[code]](https://github.com/bigmms/chen_spl20_gabf)
 <br>
 <br>
 <br>
