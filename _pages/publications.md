@@ -19,7 +19,7 @@ J. L. Yin, B. H. Chen, and K. R. Lai, "Driver Danger-Level Monitoring System Usi
 <br>
 <br>
 <img src='/images/yin_tcsvt19_dehazing.png' width="100" style="float: left; margin: 15px">
-J. L. Yin, Y. C. Huang, B. H. Chen and S. Z. Ye, "Color Transferred Convolutional Neural Networks for Image Dehazing," IEEE Transactions on Circuits and Systems for Video Technology. (in press) [[pdf]](https://ieeexplore.ieee.org/document/8716692) [[bib]](https://bigmms.github.io/yin_tcsvt19_dehazing/yin_tcsvt19_dehazing.html) [[Project]](https://bigmms.github.io/yin_tcsvt19_dehazing/) [[code]](https://github.com/bigmms/color-transferred-cnn-dehazing)
+J. L. Yin, Y. C. Huang, B. H. Chen and S. Z. Ye, "Color Transferred Convolutional Neural Networks for Image Dehazing," IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, no. 11, pp. 3957-3967, Nov. 2020. [[pdf]](https://ieeexplore.ieee.org/document/8716692) [[bib]](https://bigmms.github.io/yin_tcsvt19_dehazing/yin_tcsvt19_dehazing.html) [[Project]](https://bigmms.github.io/yin_tcsvt19_dehazing/) [[code]](https://github.com/bigmms/color-transferred-cnn-dehazing)
 <br>
 <br>
 <img src='/images/yin_tcsvt19_pcce.png' width="100" style="float: left; margin: 15px">
