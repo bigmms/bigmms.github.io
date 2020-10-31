@@ -14,11 +14,14 @@ I am actively looking for motivated students to join my group! Generally student
 
 What's New
 ======
+* Oct. 2020: Congratulations to Shi-Ting Ye for winning the Honorable Mention in [Outstanding Master Thesis Award](https://docs.google.com/document/preview?hgd=1&id=1VOqXZu4vk4gkGoqshI2augfXHvLPodi69CKib3csGAY) from the Taiwanese Association for Consumer Electronics!
+* Oct. 2020: Congratulations to Lily Yin for winning the Merit Award in [Best Ph.D. Dissertation](https://docs.google.com/document/preview?hgd=1&id=1VOqXZu4vk4gkGoqshI2augfXHvLPodi69CKib3csGAY) from the Taiwanese Association for Consumer Electronics!
+* Oct. 2020: Congratulations to Shi-Ting Ye for winning the Honorable Mention in Outstanding Master Thesis Award from the Taiwan Institute of Electrical and Electronic Engineering!
 * Oct. 2020: We were invited to deliver a keynote on Image Dehazing: Progress & Challenges at [ICCRDA 2020](http://iccrlab.com/index.html).
 * Oct. 2020: Our [paper](https://ieeexplore.ieee.org/document/9190712) was accepted to ICIP 2020. Congratulations to team!
 * Sep. 2020: Congratulations to team on Winning [Bronze Medal](/files/2020-inventaipei-winner.pdf) at the Taiwan Innotech Expo Invention Contest.
 * Sep. 2020: Our [paper](https://ieeexplore.ieee.org/document/9200678) on image filtering was accepted to IEEE SPL. Congratulations to team!
-* Aug. 2020: Congratulations to Lily Yin for winning the Honorable Mention in [Best Ph.D. Dissertation Award](/files/IPPR第十三屆博碩士論文獎獲獎公告.pdf) from the Chinese Image Processing and Pattern Recognition Society!
+* Aug. 2020: Congratulations to Lily Yin for winning the Honorable Mention Award in [Best Ph.D. Dissertation](/files/IPPR第十三屆博碩士論文獎獲獎公告.pdf) from the Chinese Image Processing and Pattern Recognition Society!
 * Jun. 2020: Our [paper](https://ieeexplore.ieee.org/document/9102832) was accepted to ICME 2020 (acceptance rate=30%). Congratulations to team!
 * May 2020: Our [paper](https://dl.acm.org/doi/abs/10.1145/3372278.3390727) was accepted to ICMR 2020. Congratulations to team!
 * Apr. 2020: Our [paper](https://ieeexplore.ieee.org/document/9089316) on image enhancement was accepted to IEEE TMM. Congratulations to team!
