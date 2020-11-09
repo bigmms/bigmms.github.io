@@ -16,7 +16,7 @@ What's New
 ======
 * Oct. 2020: Congratulations to Shi-Ting Ye for winning the Honorable Mention in [Outstanding Master Thesis Award](https://docs.google.com/document/preview?hgd=1&id=1VOqXZu4vk4gkGoqshI2augfXHvLPodi69CKib3csGAY) from the Taiwanese Association for Consumer Electronics!
 * Oct. 2020: Congratulations to Lily Yin for winning the Merit Award in [Best Ph.D. Dissertation](https://docs.google.com/document/preview?hgd=1&id=1VOqXZu4vk4gkGoqshI2augfXHvLPodi69CKib3csGAY) from the Taiwanese Association for Consumer Electronics!
-* Oct. 2020: Congratulations to Shi-Ting Ye for winning the Honorable Mention in Outstanding Master Thesis Award from the Taiwan Institute of Electrical and Electronic Engineering!
+* Oct. 2020: Congratulations to Shi-Ting Ye for winning the Honorable Mention in [Outstanding Master Thesis Award](https://www.tieee.org.tw/index.php/64-awards/awards-list/233-2020?tmpl=component&print=1&page=) from the Taiwan Institute of Electrical and Electronic Engineering!
 * Oct. 2020: We were invited to deliver a keynote on Image Dehazing: Progress & Challenges at [ICCRDA 2020](http://iccrlab.com/index.html).
 * Oct. 2020: Our [paper](https://ieeexplore.ieee.org/document/9190712) was accepted to ICIP 2020. Congratulations to team!
 * Sep. 2020: Congratulations to team on Winning [Bronze Medal](/files/2020-inventaipei-winner.pdf) at the Taiwan Innotech Expo Invention Contest.
