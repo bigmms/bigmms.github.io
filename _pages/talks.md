@@ -13,4 +13,5 @@ author_profile: true
   Seminar, National Chengchi University, Taipei, Taiwan, Apr. 2020
   
 * **Introduction to Artificial Intelligence**,
-Lecture, Far Eastern Electronic Toll Collection Co, Ltd, Taipei, Taiwan, Dec. 2018
+
+  Lecture, Far Eastern Electronic Toll Collection Co, Ltd, Taipei, Taiwan, Dec. 2018
