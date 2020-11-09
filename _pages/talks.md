@@ -17,6 +17,7 @@ author_profile: true
   Seminar, National Chengchi University, Taipei, Taiwan, Dec. 2020
  
 * **A Quest for Modern Living**
+  
   Invited Talk, Fuzhou University, Mar. 2019
 
 * **Introduction to Artificial Intelligence**
