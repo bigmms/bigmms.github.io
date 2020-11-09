@@ -26,13 +26,13 @@ author_profile: true
 
 * **Crowdsourcing in Internet of Vehicles: Challenges and Opportunities**
 
-  Seminar, Chung Yuan Christian University, Jun. 2017
+  Seminar, Chung Yuan Christian University, Taoyuan, Taiwan, Jun. 2017
 
 * **Moving Vehicles Extraction overWireless Internet**
 
-  Invited Talk, Moscow State University, Jul. 2013
+  Invited Talk, Moscow State University, Moscow, Russia, Jul. 2013
 
 * **Automatic Motion Detection for Transport Monitoring Systems**
   
-  Invited Talk, Tula State University, Jul. 2013
+  Invited Talk, Tula State University, Tula, Russia, Jul. 2013
   
