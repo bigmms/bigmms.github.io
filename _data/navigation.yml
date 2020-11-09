@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Datasets"
+    url: /datasets/
+    
   - title: "Awards"
     url: /awards/
 
   - title: "People"
     url: /people/    
-
-  - title: "Datasets"
-    url: /datasets/
 
   - title: "Talks"
     url: /talks/
