@@ -18,7 +18,7 @@ author_profile: true
  
 * **A Quest for Modern Living**
   
-  Invited Talk, Fuzhou University, Mar. 2019
+  Invited Talk, Fuzhou University, Fuzhou, China, Mar. 2019
 
 * **Introduction to Artificial Intelligence**
 
