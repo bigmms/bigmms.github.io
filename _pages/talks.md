@@ -21,7 +21,7 @@ author_profile: true
 
 * **Introduction to Artificial Intelligence**
 
-  Lecture, Far Eastern Electronic Toll Collection Co, Ltd, Taipei, Taiwan, Dec. 2018
+  Lecture, Far Eastern Electronic Toll Collection Co., Ltd., Ltd, Taipei, Taiwan, Dec. 2018
 
 * **Crowdsourcing in Internet of Vehicles: Challenges and Opportunities**
 
