@@ -14,7 +14,7 @@ author_profile: true
 
 * **The Quest for Artificial Intelligence in Computer Vision**
 
-  Seminar, National Chengchi University, Taipei, Taiwan, Dec. 2020
+  Seminar, National Chengchi University, Taipei, Taiwan, Dec. 2019
  
 * **A Quest for Modern Living**
   
