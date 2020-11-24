@@ -28,7 +28,7 @@ author_profile: true
 
   Seminar, Chung Yuan Christian University, Taoyuan, Taiwan, Jun. 2017
 
-* **Moving Vehicles Extraction overWireless Internet**
+* **Moving Vehicles Extraction over Wireless Internet**
 
   Invited Talk, Moscow State University, Moscow, Russia, Jul. 2013
 
