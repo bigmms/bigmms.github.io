@@ -5,21 +5,21 @@ author_profile: true
 ---
 
 <br>
-<img src='/images/chen_spl20_gabf.png' width="100" style="float: left; margin: 15px">
-B. H. Chen, Y. S. Tseng, and J. L. Yin, "Gaussian-Adaptive Bilateral Filter," IEEE Signal Processing Letters, vol. 27, pp. 1670-1674, 2020. [[pdf]](https://ieeexplore.ieee.org/document/9200678) [[bib]](/files/chen_spl20_gabf.html) [[code]](https://github.com/bigmms/chen_spl20_gabf)
-<br>
-<br>
-<br>
 <img src='/images/yin_tmm20_pcce.png' width="100" style="float: left; margin: 15px">
 J. L. Yin, B. H. Chen, Y. T. Peng, and C. C. Tsai, "Deep Battery Saver: End-to-end Learning for Power Constrained Contrast Enhancement," IEEE Transactions on Multimedia. (in press) [[pdf]](https://ieeexplore.ieee.org/document/9089316) [[bib]](/files/yin_tmm20_pcce.html)
 <br>
 <br>
 <img src='/images/yin_tits20_adas.png' width="100" style="float: left; margin: 15px">
-J. L. Yin, B. H. Chen, and K. R. Lai, "Driver Danger-Level Monitoring System Using Multi-Sourced Big Driving Data," IEEE Transactions on Intelligent Transportation Systems. (in press) [[pdf]](https://ieeexplore.ieee.org/document/8915711) [[bib]](/files/yin_tits20_adas.html)
+J. L. Yin, B. H. Chen, and K. R. Lai, "Driver Danger-Level Monitoring System Using Multi-Sourced Big Driving Data," IEEE Transactions on Intelligent Transportation Systems, vol. 21, no. 12, pp. 5271-5282, Dec. 2020. [[pdf]](https://ieeexplore.ieee.org/document/8915711) [[bib]](/files/yin_tits20_adas.html)
 <br>
 <br>
 <img src='/images/yin_tcsvt19_dehazing.png' width="100" style="float: left; margin: 15px">
 J. L. Yin, Y. C. Huang, B. H. Chen and S. Z. Ye, "Color Transferred Convolutional Neural Networks for Image Dehazing," IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, no. 11, pp. 3957-3967, Nov. 2020. [[pdf]](https://ieeexplore.ieee.org/document/8716692) [[bib]](https://bigmms.github.io/yin_tcsvt19_dehazing/yin_tcsvt19_dehazing.html) [[Project]](https://bigmms.github.io/yin_tcsvt19_dehazing/) [[code]](https://github.com/bigmms/color-transferred-cnn-dehazing)
+<br>
+<br>
+<img src='/images/chen_spl20_gabf.png' width="100" style="float: left; margin: 15px">
+B. H. Chen, Y. S. Tseng, and J. L. Yin, "Gaussian-Adaptive Bilateral Filter," IEEE Signal Processing Letters, vol. 27, pp. 1670-1674, 2020. [[pdf]](https://ieeexplore.ieee.org/document/9200678) [[bib]](/files/chen_spl20_gabf.html) [[code]](https://github.com/bigmms/chen_spl20_gabf)
+<br>
 <br>
 <br>
 <img src='/images/yin_tcsvt19_pcce.png' width="100" style="float: left; margin: 15px">
