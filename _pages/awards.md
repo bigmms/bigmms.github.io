@@ -3,7 +3,8 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
-* Best Thesis Award for Outstanding M.S. Thesis Supervision, Taiwan Institute of Electrical and Electronic Engineering, 2020
+* Honorable Mention Award for Outstanding M.S. Thesis Supervision, Chinese Institute of Electrical Engineering, 2020
+* Honorable Mention Award for Outstanding M.S. Thesis Supervision, Taiwan Institute of Electrical and Electronic Engineering, 2020
 * Merit Award for Best Ph.D. Dissertation Supervision, Taiwanese Association for Consumer Electronics, 2020
 * Best Thesis Award for Outstanding M.S. Thesis Supervision, Taiwanese Association for Consumer Electronics, 2020
 * Honorable Mention Award for Best Ph.D. Dissertation Supervision, Chinese Image Processing and Pattern Recognition Society, 2020
