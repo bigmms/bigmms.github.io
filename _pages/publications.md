@@ -4,6 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2020
 <br>
 <img src='/images/yin_tmm20_pcce.png' width="100" style="float: left; margin: 15px">
 J. L. Yin, B. H. Chen, Y. T. Peng, and C. C. Tsai, "Deep Battery Saver: End-to-end Learning for Power Constrained Contrast Enhancement," IEEE Transactions on Multimedia. (in press) [[pdf]](https://ieeexplore.ieee.org/document/9089316) [[bib]](/files/yin_tmm20_pcce.html)
@@ -25,6 +26,8 @@ B. H. Chen, Y. S. Tseng, and J. L. Yin, "Gaussian-Adaptive Bilateral Filter," IE
 <img src='/images/yin_tcsvt19_pcce.png' width="100" style="float: left; margin: 15px">
 J. L. Yin, B. H. Chen, E. H. Lai, and L. F. Shi, "Power-constrained Image Contrast Enhancement through Sparse Representation by Joint Mixed-norm Regularization," IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, no. 8, pp. 2477-2488, Aug. 2020. [[pdf]](https://ieeexplore.ieee.org/document/8746233) [[bib]](https://bigmms.github.io/yin_tcsvt19_pcce/yin_tcsvt19_pcce.html) [[Project]](https://bigmms.github.io/yin_tcsvt19_pcce/) [[code]](https://github.com/bigmms/mixed-norm-power-constrained-sparse-representation)
 <br>
+
+## 2019
 <br>
 <img src='/images/chen_tcsvt19_motion.png' width="100" style="float: left; margin: 15px">
 B. H. Chen, L. F. Shi and X. Ke, "A Robust Moving Object Detection in Multi-Scenario Big Data for Video Surveillance," IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 4, pp. 982-995, April 2019. [[pdf]](https://ieeexplore.ieee.org/document/8341810) [[bib]](https://bigmms.github.io/chen_tcsvt19_motion/chen_tcsvt19_motion.html) [[Project]](https://bigmms.github.io/chen_tcsvt19_motion/)
@@ -33,6 +36,8 @@ B. H. Chen, L. F. Shi and X. Ke, "A Robust Moving Object Detection in Multi-Scen
 <img src='/images/chen_tcsvt19_enhancement.png' width="100" style="float: left; margin: 15px">
 B. H. Chen, Y. L. Wu and L. F. Shi, "A Fast Image Contrast Enhancement Algorithm Using Entropy-Preserving Mapping Prior," IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 1, pp. 38-49, Jan. 2019. [[pdf]](https://ieeexplore.ieee.org/document/8107566) [[bib]](https://bigmms.github.io/chen_tcsvt19_enhancement/chen_tcsvt19_enhancement.html) [[Project]](https://bigmms.github.io/chen_tcsvt19_enhancement/) [[code]](https://github.com/bigmms/entropy-preserving-mapping-prior)
 <br>
+
+## 2018
 <br>
 <img src='/images/yin_tiv18_ubi.png' width="100" style="float: left; margin: 15px">
 J. L. Yin and B. H. Chen, "An Advanced Driver Risk Measurement System for Usage-Based Insurance on Big Driving Data," IEEE Transactions on Intelligent Vehicles, vol. 3, no. 4, pp. 585-594, Dec. 2018. [[pdf]](https://ieeexplore.ieee.org/document/8485335) [[bib]](https://bigmms.github.io/yin_tiv18_ubi/yin_tiv18_ubi.html) [[Project]](https://bigmms.github.io/yin_tiv18_ubi/)
