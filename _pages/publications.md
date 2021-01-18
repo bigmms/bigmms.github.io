@@ -7,7 +7,7 @@ author_profile: true
 ## 2021
 <br>
 <img src='/images/chen_grsl21_tpbf.png' width="100" style="float: left; margin: 15px">
-B. H. Chen, H. Y. Cheng, Y. S. Tseng and J. L. Yin, "Two-Pass Bilateral Smooth Filtering for Remote Sensing Imagery," IEEE Geoscience and Remote Sensing Letters. (in press) [[pdf]](https://ieeexplore.ieee.org/document/9325516) [[bib]](/files/chen_grsl21_tpbf.html)
+B. H. Chen, H. Y. Cheng, Y. S. Tseng and J. L. Yin, "Two-Pass Bilateral Smooth Filtering for Remote Sensing Imagery," IEEE Geoscience and Remote Sensing Letters. (in press) [[pdf]](https://ieeexplore.ieee.org/document/9325516) [[bib]](/files/chen_grsl21_tpbf.html) [[code]](https://github.com/bigmms/chen_grsl21_tpbf)
 <br>
 <br>
 <img src='/images/yin_tmm20_pcce.png' width="100" style="float: left; margin: 15px">
