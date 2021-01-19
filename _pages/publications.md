@@ -36,11 +36,15 @@ J. L. Yin, B. H. Chen, E. H. Lai, and L. F. Shi, "Power-constrained Image Contra
 ## 2019
 <br>
 <img src='/images/chen_tcsvt19_motion.png' width="100" style="float: left; margin: 15px">
-B. H. Chen, L. F. Shi and X. Ke, "A Robust Moving Object Detection in Multi-Scenario Big Data for Video Surveillance," IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 4, pp. 982-995, April 2019. [[pdf]](https://ieeexplore.ieee.org/document/8341810) [[bib]](https://bigmms.github.io/chen_tcsvt19_motion/chen_tcsvt19_motion.html) [[Project]](https://bigmms.github.io/chen_tcsvt19_motion/)
+B. H. Chen, L. F. Shi, and X. Ke, "A Robust Moving Object Detection in Multi-Scenario Big Data for Video Surveillance," IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 4, pp. 982-995, April 2019. [[pdf]](https://ieeexplore.ieee.org/document/8341810) [[bib]](https://bigmms.github.io/chen_tcsvt19_motion/chen_tcsvt19_motion.html) [[Project]](https://bigmms.github.io/chen_tcsvt19_motion/)
 <br>
 <br>
 <img src='/images/chen_tcsvt19_enhancement.png' width="100" style="float: left; margin: 15px">
-B. H. Chen, Y. L. Wu and L. F. Shi, "A Fast Image Contrast Enhancement Algorithm Using Entropy-Preserving Mapping Prior," IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 1, pp. 38-49, Jan. 2019. [[pdf]](https://ieeexplore.ieee.org/document/8107566) [[bib]](https://bigmms.github.io/chen_tcsvt19_enhancement/chen_tcsvt19_enhancement.html) [[Project]](https://bigmms.github.io/chen_tcsvt19_enhancement/) [[code]](https://github.com/bigmms/entropy-preserving-mapping-prior)
+B. H. Chen, Y. L. Wu, and L. F. Shi, "A Fast Image Contrast Enhancement Algorithm Using Entropy-Preserving Mapping Prior," IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 1, pp. 38-49, Jan. 2019. [[pdf]](https://ieeexplore.ieee.org/document/8107566) [[bib]](https://bigmms.github.io/chen_tcsvt19_enhancement/chen_tcsvt19_enhancement.html) [[Project]](https://bigmms.github.io/chen_tcsvt19_enhancement/) [[code]](https://github.com/bigmms/entropy-preserving-mapping-prior)
+<br>
+<br>
+<img src='/images/huang_icip19.png' width="100" style="float: left; margin: 15px">
+L. Y. Huang, J. L. Yin, B. H. Chen, and S. Ye, "Towards Unsupervised Single Image Dehazing With Deep Learning," IEEE International Conference on Image Processing (ICIP), pp. 2741-2745, Taipei, Taiwan, 2019. [[pdf]](https://ieeexplore.ieee.org/document/8803316) 
 <br>
 
 ## 2018
