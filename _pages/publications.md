@@ -25,7 +25,7 @@ J. L. Yin, Y. C. Huang, B. H. Chen and S. Z. Ye, "Color Transferred Convolutiona
 <br>
 <br>
 <img src='/images/ye_icip20.png' width="100" style="float: left; margin: 15px">
-S. Ye, J. L. Yin, B. H. Chen, D. Chen, and Y. Wu, "Single Image Glare Removal Using Deep Convolutional Networks," IEEE International Conference on Image Processing (ICIP), Abu Dhabi, United Arab Emirates, pp. 201-205, Oct. 2020.
+S. Ye, J. L. Yin, B. H. Chen, D. Chen, and Y. Wu, "Single Image Glare Removal Using Deep Convolutional Networks," IEEE International Conference on Image Processing (ICIP), Abu Dhabi, United Arab Emirates, pp. 201-205, Oct. 2020. [[pdf]](https://ieeexplore.ieee.org/document/9190712)
 <br>
 <br>
 <img src='/images/chen_spl20_gabf.png' width="100" style="float: left; margin: 15px">
@@ -38,11 +38,11 @@ J. L. Yin, B. H. Chen, E. H. Lai, and L. F. Shi, "Power-constrained Image Contra
 <br>
 <br>
 <img src='/images/yin_icme20_hdr.png' width="100" style="float: left; margin: 15px">
-J. L. Yin, B. H. Chen, Y. T. Peng, and C. C. Tsai, "Deep Prior Guided Network For High-Quality Image Fusion," IEEE International Conference on Multimedia and Expo (ICME), London, United Kingdom, pp. 1-6, Jul. 2020.
+J. L. Yin, B. H. Chen, Y. T. Peng, and C. C. Tsai, "Deep Prior Guided Network For High-Quality Image Fusion," IEEE International Conference on Multimedia and Expo (ICME), London, United Kingdom, pp. 1-6, Jul. 2020. [[pdf]](https://ieeexplore.ieee.org/document/9102832)
 <br>
 <br>
 <img src='/images/chen_icmr20.png' width="100" style="float: left; margin: 15px">
-S. Chen, B. H. Chen, Z. Chen, and Y. Wu. 2020, "Itinerary Planning via Deep Reinforcement Learning," ACM International Conference on Multimedia Retrieval (ICMR), Dublin, Ireland, pp. 286–290, Jun. 2020.
+S. Chen, B. H. Chen, Z. Chen, and Y. Wu. 2020, "Itinerary Planning via Deep Reinforcement Learning," ACM International Conference on Multimedia Retrieval (ICMR), Dublin, Ireland, pp. 286–290, Jun. 2020. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3372278.3390727)
 <br>
 
 ## 2019
