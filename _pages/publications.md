@@ -24,6 +24,10 @@ J. L. Yin, B. H. Chen, and K. R. Lai, "Driver Danger-Level Monitoring System Usi
 J. L. Yin, Y. C. Huang, B. H. Chen and S. Z. Ye, "Color Transferred Convolutional Neural Networks for Image Dehazing," IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, no. 11, pp. 3957-3967, Nov. 2020. [[pdf]](https://ieeexplore.ieee.org/document/8716692) [[bib]](https://bigmms.github.io/yin_tcsvt19_dehazing/yin_tcsvt19_dehazing.html) [[Project]](https://bigmms.github.io/yin_tcsvt19_dehazing/) [[code]](https://github.com/bigmms/color-transferred-cnn-dehazing)
 <br>
 <br>
+<img src='/images/ye_icip20.png' width="100" style="float: left; margin: 15px">
+S. Ye, J. L. Yin, B. H. Chen, D. Chen, and Y. Wu, "Single Image Glare Removal Using Deep Convolutional Networks," IEEE International Conference on Image Processing (ICIP), Abu Dhabi, United Arab Emirates, pp. 201-205, Oct. 2020.
+<br>
+<br>
 <img src='/images/chen_spl20_gabf.png' width="100" style="float: left; margin: 15px">
 B. H. Chen, Y. S. Tseng, and J. L. Yin, "Gaussian-Adaptive Bilateral Filter," IEEE Signal Processing Letters, vol. 27, pp. 1670-1674, Sept. 2020. [[pdf]](https://ieeexplore.ieee.org/document/9200678) [[bib]](/files/chen_spl20_gabf.html) [[code]](https://github.com/bigmms/chen_spl20_gabf)
 <br>
@@ -32,8 +36,20 @@ B. H. Chen, Y. S. Tseng, and J. L. Yin, "Gaussian-Adaptive Bilateral Filter," IE
 <img src='/images/yin_tcsvt19_pcce.png' width="100" style="float: left; margin: 15px">
 J. L. Yin, B. H. Chen, E. H. Lai, and L. F. Shi, "Power-constrained Image Contrast Enhancement through Sparse Representation by Joint Mixed-norm Regularization," IEEE Transactions on Circuits and Systems for Video Technology, vol. 30, no. 8, pp. 2477-2488, Aug. 2020. [[pdf]](https://ieeexplore.ieee.org/document/8746233) [[bib]](https://bigmms.github.io/yin_tcsvt19_pcce/yin_tcsvt19_pcce.html) [[Project]](https://bigmms.github.io/yin_tcsvt19_pcce/) [[code]](https://github.com/bigmms/mixed-norm-power-constrained-sparse-representation)
 <br>
+<br>
+<img src='/images/yin_icme20_hdr.png' width="100" style="float: left; margin: 15px">
+J. L. Yin, B. H. Chen, Y. T. Peng, and C. C. Tsai, "Deep Prior Guided Network For High-Quality Image Fusion," IEEE International Conference on Multimedia and Expo (ICME), London, United Kingdom, pp. 1-6, Jul. 2020.
+<br>
+<br>
+<img src='/images/chen_icmr20.png' width="100" style="float: left; margin: 15px">
+S. Chen, B. H. Chen, Z. Chen, and Y. Wu. 2020, "Itinerary Planning via Deep Reinforcement Learning," ACM International Conference on Multimedia Retrieval (ICMR), Dublin, Ireland, pp. 286–290, Jun. 2020.
+<br>
 
 ## 2019
+<br>
+<img src='/images/huang_icip19.png' width="100" style="float: left; margin: 15px">
+L. Y. Huang, J. L. Yin, B. H. Chen, and S. Ye, "Towards Unsupervised Single Image Dehazing With Deep Learning," IEEE International Conference on Image Processing (ICIP), pp. 2741-2745, Taipei, Taiwan, Sept. 2019. [[pdf]](https://ieeexplore.ieee.org/document/8803316) 
+<br>
 <br>
 <img src='/images/chen_tcsvt19_motion.png' width="100" style="float: left; margin: 15px">
 B. H. Chen, L. F. Shi, and X. Ke, "A Robust Moving Object Detection in Multi-Scenario Big Data for Video Surveillance," IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 4, pp. 982-995, April 2019. [[pdf]](https://ieeexplore.ieee.org/document/8341810) [[bib]](https://bigmms.github.io/chen_tcsvt19_motion/chen_tcsvt19_motion.html) [[Project]](https://bigmms.github.io/chen_tcsvt19_motion/)
@@ -41,10 +57,6 @@ B. H. Chen, L. F. Shi, and X. Ke, "A Robust Moving Object Detection in Multi-Sce
 <br>
 <img src='/images/chen_tcsvt19_enhancement.png' width="100" style="float: left; margin: 15px">
 B. H. Chen, Y. L. Wu, and L. F. Shi, "A Fast Image Contrast Enhancement Algorithm Using Entropy-Preserving Mapping Prior," IEEE Transactions on Circuits and Systems for Video Technology, vol. 29, no. 1, pp. 38-49, Jan. 2019. [[pdf]](https://ieeexplore.ieee.org/document/8107566) [[bib]](https://bigmms.github.io/chen_tcsvt19_enhancement/chen_tcsvt19_enhancement.html) [[Project]](https://bigmms.github.io/chen_tcsvt19_enhancement/) [[code]](https://github.com/bigmms/entropy-preserving-mapping-prior)
-<br>
-<br>
-<img src='/images/huang_icip19.png' width="100" style="float: left; margin: 15px">
-L. Y. Huang, J. L. Yin, B. H. Chen, and S. Ye, "Towards Unsupervised Single Image Dehazing With Deep Learning," IEEE International Conference on Image Processing (ICIP), pp. 2741-2745, Taipei, Taiwan, 2019. [[pdf]](https://ieeexplore.ieee.org/document/8803316) 
 <br>
 
 ## 2018
