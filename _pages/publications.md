@@ -54,7 +54,7 @@ J. L. Yin, B. H. Chen, and Y. Li, "Highly Accurate Image Reconstruction for Mult
 <br>
 <br>
 <img src='/images/shi_tmm18_dehazing.png' width="100" style="float: left; margin: 15px">
-L. F. Shi, B. H. Chen et al., "Removing Haze Particles From Single Image via Exponential Inference With Support Vector Data Description," IEEE Transactions on Multimedia, vol. 20, no. 9, pp. 2503-2512, Sept. 2018. [[pdf]](https://ieeexplore.ieee.org/document/8295116) [[bib]](/files/shi_tmm18_dehazing.html)
+L. F. Shi, B. H. Chen et al., "Removing Haze Particles From Single Image via Exponential Inference With Support Vector Data Description," IEEE Transactions on Multimedia, vol. 20, no. 9, pp. 2503-2512, Sept. 2018. [[pdf]](https://ieeexplore.ieee.org/document/8295116) [[bib]](/files/shi_tmm18_dehazing.html) [[code]](https://github.com/bigmms/shi_tmm18_dehazing)
 <br>
 <br>
 <img src='/images/yin_sensj18_adas.png' width="100" style="float: left; margin: 15px">
