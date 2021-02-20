@@ -6,6 +6,9 @@ author_profile: true
 
 ## 2021
 <br>
+<img src='/images/chen_tits21_restoration.png' width="100" style="float: left; margin: 15px"> B. H. Chen, S. Ye, J. L. Yin, H. Y. Cheng and D. Chen, "Deep Trident Decomposition Network for Single License Plate Image Glare Removal," IEEE Transactions on Intelligent Transportation Systems. (in press) [[pdf]](https://ieeexplore.ieee.org/document/9357944) [[bib]](/files/chen_tits21_restoration.html)
+<br>
+<br>
 <img src='/images/chen_grsl21_tpbf.png' width="100" style="float: left; margin: 15px">
 B. H. Chen, H. Y. Cheng, Y. S. Tseng and J. L. Yin, "Two-Pass Bilateral Smooth Filtering for Remote Sensing Imagery," IEEE Geoscience and Remote Sensing Letters. (in press) [[pdf]](https://ieeexplore.ieee.org/document/9325516) [[bib]](/files/chen_grsl21_tpbf.html) [[code]](https://github.com/bigmms/chen_grsl21_tpbf)
 <br>
