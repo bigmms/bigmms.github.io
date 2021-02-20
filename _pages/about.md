@@ -14,6 +14,7 @@ I am actively looking for motivated students to join my group! Generally student
 
 What's New
 ======
+* Feb. 2021: Our [paper](https://ieeexplore.ieee.org/document/9357944) on image restoration was accepted to IEEE TITS. Congratulations to team!
 * Jan. 2021: Our [paper](https://ieeexplore.ieee.org/document/9325516) on image filtering was accepted to IEEE GRSL. Congratulations to team!
 * Dec. 2020: Congratulations! Shi-Ting Ye received [Young Scholar Thesis Award](/files/109年度「青年論文獎」得獎人名單.pdf) 2020. The award is offered by the Chinese Institute of Electrical Engineering to recognize the outstanding Master's thesis written by graduate students.
 * Oct. 2020: Congratulations to Shi-Ting Ye for winning the Honorable Mention in [Outstanding Master Thesis Award](https://docs.google.com/document/preview?hgd=1&id=1VOqXZu4vk4gkGoqshI2augfXHvLPodi69CKib3csGAY) from the Taiwanese Association for Consumer Electronics!
