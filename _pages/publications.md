@@ -6,7 +6,7 @@ author_profile: true
 
 ## 2021
 <br>
-<img src='/images/chen_tits21_restoration.png' width="100" style="float: left; margin: 15px"> B. H. Chen, S. Ye, J. L. Yin, H. Y. Cheng and D. Chen, "Deep Trident Decomposition Network for Single License Plate Image Glare Removal," IEEE Transactions on Intelligent Transportation Systems. (in press) [[pdf]](https://ieeexplore.ieee.org/document/9357944) [[bib]](/files/chen_tits21_restoration.html)
+<img src='/images/chen_tits21_restoration.png' width="100" style="float: left; margin: 15px"> B. H. Chen, S. Ye, J. L. Yin, H. Y. Cheng and D. Chen, "Deep Trident Decomposition Network for Single License Plate Image Glare Removal," IEEE Transactions on Intelligent Transportation Systems. (in press) [[pdf]](https://ieeexplore.ieee.org/document/9357944) [[bib]](/files/chen_tits21_restoration.html) [[code]](https://github.com/bigmms/chen_tits21)
 <br>
 <br>
 <img src='/images/chen_grsl21_tpbf.png' width="100" style="float: left; margin: 15px">
