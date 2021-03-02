@@ -18,15 +18,9 @@ What's New
 * Jan. 2021: Our [paper](https://ieeexplore.ieee.org/document/9325516) on image filtering was accepted to IEEE GRSL. Congratulations to team!
 * Dec. 2020: Congratulations! Shi-Ting Ye received [Young Scholar Thesis Award](/files/109年度「青年論文獎」得獎人名單.pdf) 2020. The award is offered by the Chinese Institute of Electrical Engineering to recognize the outstanding Master's thesis written by graduate students.
 * Oct. 2020: Congratulations to Shi-Ting Ye for winning the Honorable Mention in [Outstanding Master Thesis Award](https://docs.google.com/document/preview?hgd=1&id=1VOqXZu4vk4gkGoqshI2augfXHvLPodi69CKib3csGAY) from the Taiwanese Association for Consumer Electronics!
-<details>
-  <summary>Show all news</summary>
+    <details>
+      <summary>Show all news</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-     * 
 * Oct. 2020: Congratulations to Lily Yin for winning the Merit Award in [Best Ph.D. Dissertation](https://docs.google.com/document/preview?hgd=1&id=1VOqXZu4vk4gkGoqshI2augfXHvLPodi69CKib3csGAY) from the Taiwanese Association for Consumer Electronics!
 * Oct. 2020: Congratulations to Shi-Ting Ye for winning the Honorable Mention in [Outstanding Master Thesis Award](https://www.tieee.org.tw/index.php/64-awards/awards-list/233-2020?tmpl=component&print=1&page=) from the Taiwan Institute of Electrical and Electronic Engineering!
 * Oct. 2020: We were invited to deliver a keynote on Image Dehazing: Progress & Challenges at ICCRDA 2020.
@@ -47,7 +41,7 @@ What's New
 * May 2019: Our [paper](https://ieeexplore.ieee.org/document/8716692) was accepted to IEEE TCSVT. Congratulations to team!
 * Apr. 2019: Our [paper](https://cmsworkshops.com/ICIP2019/Papers/AcceptedPapers.asp) was accepted to ICIP 2019. Congratulations to team!
 * Dec. 2018: Congratulations to Eileen Wu for winning the 1st Prize in [Young Scholar Thesis Award](/files/(%E9%99%84%E4%BB%B61)107%E5%B9%B4%E5%BA%A6%E3%80%8C%E9%9D%92%E5%B9%B4%E8%AB%96%E6%96%87%E7%8D%8E%E3%80%8D%E5%BE%97%E7%8D%8E%E4%BA%BA%E5%90%8D%E5%96%AE.pdf) from the Chinese Institute of Electrical Engineering!
-</details>
+    </details>
 
 
 
