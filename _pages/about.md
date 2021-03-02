@@ -20,11 +20,13 @@ What's New
 * Oct. 2020: Congratulations to Shi-Ting Ye for winning the Honorable Mention in [Outstanding Master Thesis Award](https://docs.google.com/document/preview?hgd=1&id=1VOqXZu4vk4gkGoqshI2augfXHvLPodi69CKib3csGAY) from the Taiwanese Association for Consumer Electronics!
 <details>
   <summary>Show all news</summary>
+  
   ## Heading
   1. A numbered
   2. list
      * With some
      * Sub bullets
+     * 
 * Oct. 2020: Congratulations to Lily Yin for winning the Merit Award in [Best Ph.D. Dissertation](https://docs.google.com/document/preview?hgd=1&id=1VOqXZu4vk4gkGoqshI2augfXHvLPodi69CKib3csGAY) from the Taiwanese Association for Consumer Electronics!
 * Oct. 2020: Congratulations to Shi-Ting Ye for winning the Honorable Mention in [Outstanding Master Thesis Award](https://www.tieee.org.tw/index.php/64-awards/awards-list/233-2020?tmpl=component&print=1&page=) from the Taiwan Institute of Electrical and Electronic Engineering!
 * Oct. 2020: We were invited to deliver a keynote on Image Dehazing: Progress & Challenges at ICCRDA 2020.
