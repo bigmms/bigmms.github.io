@@ -14,7 +14,7 @@ B. H. Chen, H. Y. Cheng, Y. S. Tseng and J. L. Yin, "Two-Pass Bilateral Smooth F
 <br>
 <br>
 <img src='/images/yin_tmm20_pcce.png' width="100" style="float: left; margin: 15px">
-J. L. Yin, B. H. Chen, Y. T. Peng, and C. C. Tsai, "Deep Battery Saver: End-to-end Learning for Power Constrained Contrast Enhancement," IEEE Transactions on Multimedia, vol. 23, pp. 1049-1059, 2021. [[pdf]](https://ieeexplore.ieee.org/document/9089316) [[bib]](/files/yin_tmm20_pcce.html)
+J. L. Yin, B. H. Chen, Y. T. Peng, and C. C. Tsai, "Deep Battery Saver: End-to-end Learning for Power Constrained Contrast Enhancement," IEEE Transactions on Multimedia, vol. 23, pp. 1049-1059, 2021. [[pdf]](https://ieeexplore.ieee.org/document/9089316) [[bib]](/files/yin_tmm20_pcce.html) [[code]](https://github.com/bigmms/deep_battery_saver)
 <br>
 
 ## 2020
