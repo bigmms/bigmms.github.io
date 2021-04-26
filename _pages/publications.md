@@ -45,7 +45,7 @@ J. L. Yin, B. H. Chen, Y. T. Peng, and C. C. Tsai, "Deep Prior Guided Network Fo
 <br>
 <br>
 <img src='/images/chen_icmr20.png' width="100" style="float: left; margin: 15px">
-S. Chen, B. H. Chen, Z. Chen, and Y. Wu. 2020, "Itinerary Planning via Deep Reinforcement Learning," ACM International Conference on Multimedia Retrieval (ICMR), Dublin, Ireland, pp. 286–290, Jun. 2020. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3372278.3390727)
+S. Chen, B. H. Chen, Z. Chen, and Y. Wu, "Itinerary Planning via Deep Reinforcement Learning," ACM International Conference on Multimedia Retrieval (ICMR), Dublin, Ireland, pp. 286–290, Jun. 2020. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3372278.3390727)
 <br>
 
 ## 2019
