@@ -11,6 +11,7 @@ author_profile: true
 <br>
 <br>
 <br>
+
 <img src='../images/roi_vs.gif' width="150" style="float: left; margin: 15px">
 <strong>ROI-based Video Stabilization</strong> 
 [Android App] | [Code]
