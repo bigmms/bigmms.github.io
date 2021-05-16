@@ -8,7 +8,7 @@ author_profile: true
 <img src='../images/Easy3D.gif' width="180" style="float: left; margin: 15px">
 
 <strong>Easy3D: A Holographic Advertising Platform</strong> 
-S. Y. Lai
+<br> S. Y. Lai </br>
 [[Paper]](https://ieeexplore.ieee.org/document/8574875) | [[Demo]](https://www.youtube.com/watch?v=7iHxskBOj4U)
 <br>
 <br>
@@ -16,7 +16,7 @@ S. Y. Lai
 <img src='../images/roi_vs.gif' width="180" style="float: left; margin: 15px">
 
 <strong>ROI-based Video Stabilization</strong> 
-Y. J. Huang and Y. X. Wu
+<br> Y. J. Huang and Y. X. Wu </br>
 [Android App] | [Code]
 <br>
 
