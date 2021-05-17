@@ -3,7 +3,30 @@ title: "Miscellaneous"
 permalink: /misc/
 author_profile: true
 ---
+<br>
+<img src='../images/PDetection.gif' width="180" style="float: left; margin: 15px">
 
+<strong> Pavement Distress Detection via Deep Learning </strong> 
+<br> J. L. Yin, T. H. Peng, and J. L. Kuan
+<br> [[Paper]](https://ieeexplore.ieee.org/abstract/document/9015591) 
+<br>
+<br>
+<br>
+<img src='../images/DrivBehav.gif' width="180" style="float: left; margin: 15px">
+
+<strong> AI System for Detecting Distracted Driving Behaviors </strong> 
+<br> Y. T. Pang, S. W. Syu, Y. C. Huang
+<br> [[Paper]](https://ieeexplore.ieee.org/document/8574512) 
+<br>
+<br>
+<br>
+<img src='../images/ERegDMS.gif' width="180" style="float: left; margin: 15px">
+
+<strong>Emotion Recognition for Driver Monitoring System</strong> 
+<br> Y. L. Wu, H. Y. Tsai, and Y. C. Huang
+<br> [[Paper]](https://ieeexplore.ieee.org/document/8574610) 
+<br>
+<br>
 <br>
 <img src='../images/Easy3D.gif' width="180" style="float: left; margin: 15px">
 
