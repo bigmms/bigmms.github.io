@@ -9,7 +9,7 @@ author_profile: true
 
 <strong>Easy3D: A Holographic Advertising Platform</strong> 
 <br> S. Y. Lai 
-<br> [[Paper]](https://ieeexplore.ieee.org/document/8574875) | [[Demo]](https://www.youtube.com/watch?v=7iHxskBOj4U)
+<br> [[Paper]](https://ieeexplore.ieee.org/document/8574875) | [[Demo]](https://www.youtube.com/watch?v=7iHxskBOj4U) | [[Media]](http://yzunews.yzu.edu.tw/archimedes-international-invention-exhibition/)
 <br>
 <br>
 <br>
@@ -17,5 +17,6 @@ author_profile: true
 
 <strong>ROI-based Video Stabilization</strong> 
 <br> Y. J. Huang and Y. X. Wu 
-<br> [Android App] | [Code]
+<br> [App] | [Code]
 <br>
+
