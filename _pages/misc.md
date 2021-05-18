@@ -36,6 +36,14 @@ author_profile: true
 <br>
 <br>
 <br>
+<img src='../images/Crowdsourcing.gif' width="180" style="float: left; margin: 15px">
+
+<strong>Crowdsourcing-Based Framework for On-Road Weather Detection</strong> 
+<br> C. C. Gao
+<br> [[Code]](https://github.com/bigmms/Weather-Map)
+<br>
+<br>
+<br>
 <img src='../images/roi_vs.gif' width="180" style="float: left; margin: 15px">
 
 <strong>ROI-based Video Stabilization</strong> 
