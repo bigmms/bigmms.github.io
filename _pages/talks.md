@@ -4,6 +4,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+* **What can I do with Python?**
+
+  Guest Lecture, National Chengchi University, Taipei, Taiwan, Jun. 2021. 
+
 * **Image Dehazing: Progress & Challenges**
 
   Keynote, ICCRDA 2020, College of Engineering Roorkee, India, Oct. 2020. 
@@ -15,7 +19,7 @@ author_profile: true
 * **The Quest for Artificial Intelligence in Computer Vision**
 
   Seminar, National Chengchi University, Taipei, Taiwan, Dec. 2019
- 
+
 * **A Quest for Modern Living**
   
   Invited Talk, Fuzhou University, Fuzhou, China, Mar. 2019
