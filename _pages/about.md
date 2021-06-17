@@ -14,7 +14,7 @@ I am actively looking for motivated students to join my group! Generally student
 
 What's New
 ======
-
+* Jun. 2021: Our [paper](https://ieeexplore.ieee.org/document/9456042) on HDR image fusion was accepted to IEEE TMM. Congratulations to team!
 * Mar. 2021: Congratulations! Lily Yin received [Outstanding Ph.D. Dissertation Award](/files/iicm_2021.pdf). The award is offered by the Institute of Information & Computing Machinery to recognize the outstanding Ph.D. dissertations that have contributed to the advancement of computer science.
 * Feb. 2021: Our [paper](https://ieeexplore.ieee.org/document/9357944) on image restoration was accepted to IEEE TITS. Congratulations to team!
 * Jan. 2021: Our [paper](https://ieeexplore.ieee.org/document/9325516) on image filtering was accepted to IEEE GRSL. Congratulations to team!
